@@ -15,5 +15,5 @@ Tic Tac Toe is a classic game that has been enjoyed by people of all ages. This 
 
 1.) HTML : For structuring the game board and layout.
 2.) CSS : For styling the game interface, including the grid, buttons, and overall layout.
-3.) JavaScript : For implementing game logic, handling player turns, detecting win conditions, and enabling game reset.
+3.) JavaScript : For implementing game logic, handling player turns, detecting win conditions, and enabling game reset.df
 
